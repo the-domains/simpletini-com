@@ -1,0 +1,28 @@
+name: simpletini.com
+favicon: null
+layout_spectrum: 0.9458639202639461
+typography_spectrum: 0.16360053303651512
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7785086249932647
+  lightness: 0.46163924713619053
+  saturation: 0.29752233158797026
+  rhythmicContrast: 0.33813138119876385
+purpose: []
